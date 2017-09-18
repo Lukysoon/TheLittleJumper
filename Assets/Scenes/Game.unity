@@ -162,7 +162,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4647875347041718, guid: cbcee54ce97aab84c970f8f9102217c2, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -2.353
+      value: -3.373
       objectReference: {fileID: 0}
     - target: {fileID: 4647875347041718, guid: cbcee54ce97aab84c970f8f9102217c2, type: 2}
       propertyPath: m_LocalPosition.z
@@ -301,7 +301,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &239393927
 Transform:
   m_ObjectHideFlags: 0
@@ -821,7 +821,7 @@ ParticleSystem:
   moveWithTransform: 1
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 1
-  randomSeed: -643201954
+  randomSeed: 440694238
   InitialModule:
     serializedVersion: 3
     enabled: 1
@@ -4310,7 +4310,7 @@ ParticleSystem:
   moveWithTransform: 1
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 1
-  randomSeed: -1753554409
+  randomSeed: 1649892499
   InitialModule:
     serializedVersion: 3
     enabled: 1
